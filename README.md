@@ -12,3 +12,6 @@ rustup docs --book
 
 ## Test your Rust skills
 1. [https://dtolnay.github.io/rust-quiz](https://dtolnay.github.io/rust-quiz)
+
+## What's different in Rust from other languages
+[Read guide](./whatsdifferent.md)
